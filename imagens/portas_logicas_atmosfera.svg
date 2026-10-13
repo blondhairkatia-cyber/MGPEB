@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="470" height="95" preserveAspectRatio="xMinYMin meet" viewBox="0 0 470 95" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="470" height="95"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-95)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="-10" y="-5" width="490" height="105" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="0" y="66" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,132) scale(1,-1)">V</text>
+			<text x="14" y="52" style="font-family: Helvetica; font-size: 7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,104) scale(1,-1)">vento &lt;= 60 km/h</text>
+			<text x="0" y="26" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,52) scale(1,-1)">T</text>
+			<text x="14" y="12" style="font-family: Helvetica; font-size: 7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,24) scale(1,-1)">tempestade de poeira</text>
+			<path d="M 12,30 L 110,30 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="110 20, 110 40, 130 30" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,96%,91%); fill-rule: evenodd;"/>
+			<circle cx="133.0" cy="30.0" r="3" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 220 33 L 244 33 C 255.046 33 264 41.954 264 53 C 264 64.046 255.046 73 244 73 L 220 73 Z " style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(90%,93%,97%); fill-rule: evenodd;"/>
+			<text x="234.0" y="50.0" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,100) scale(1,-1)">AND</text>
+			<path d="M 136,30 L 200,30 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 200,30 L 200,43 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 200,43 L 220,43 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 12,70 L 200,70 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 200,70 L 200,63 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 200,63 L 220,63 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 264,53 L 330,53 Z" style="stroke: rgb(12%,23%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="335" y="49" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,23%,45%); stroke:none;" transform="translate(0,98) scale(1,-1)">A  (atmosfera favorável)</text>
+		</g>
+	</g>
+</svg>

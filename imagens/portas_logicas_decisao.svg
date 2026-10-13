@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="470" height="250" preserveAspectRatio="xMinYMin meet" viewBox="0 0 470 250" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="470" height="250"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-250)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="-10" y="-5" width="490" height="260" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="0" y="206" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,412) scale(1,-1)">S</text>
+			<text x="0" y="156" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,312) scale(1,-1)">D</text>
+			<text x="0" y="106" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,212) scale(1,-1)">C</text>
+			<text x="0" y="66" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,132) scale(1,-1)">A</text>
+			<text x="14" y="190" style="font-family: Helvetica; font-size: 7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,380) scale(1,-1)">sensores íntegros</text>
+			<text x="14" y="140" style="font-family: Helvetica; font-size: 7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,280) scale(1,-1)">área disponível</text>
+			<text x="14" y="90" style="font-family: Helvetica; font-size: 7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,180) scale(1,-1)">combustível &gt;= 20%</text>
+			<text x="14" y="50" style="font-family: Helvetica; font-size: 7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,100) scale(1,-1)">atmosfera favorável</text>
+			<circle cx="60" cy="210" r="2.2" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<path d="M 60,210 L 60,235 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 60,235 L 200,235 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="200 225, 200 245, 220 235" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,96%,91%); fill-rule: evenodd;"/>
+			<circle cx="223.0" cy="235.0" r="3" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 226,235 L 395,235 Z" style="stroke: rgb(75%,22%,16%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="400" y="231" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(75%,22%,16%); stroke:none;" transform="translate(0,462) scale(1,-1)">ALERTA</text>
+			<path d="M 12,110 L 80,110 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="80 100, 80 120, 100 110" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,96%,91%); fill-rule: evenodd;"/>
+			<circle cx="103.0" cy="110.0" r="3" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="108" y="114" style="font-family: Helvetica; font-size: 7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,228) scale(1,-1)">NOT C</text>
+			<path d="M 170 65 C 195 65 212.5 72.5 220 90 C 212.5 107.5 195 115 170 115 C 182.5 98 182.5 81.5 170 65 Z " style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(99%,94%,90%); fill-rule: evenodd;"/>
+			<text x="186.0" y="87.0" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,174) scale(1,-1)">OR</text>
+			<path d="M 106,110 L 150,110 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 150,110 L 150,100 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 150,100 L 178,100 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 12,70 L 150,70 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 150,70 L 150,80 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 150,80 L 178,80 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="222" y="94" style="font-family: Helvetica; font-size: 7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,188) scale(1,-1)">A + NOT C</text>
+			<path d="M 300 110 L 336 110 C 352.569 110 366 123.431 366 140 C 366 156.569 352.569 170 336 170 L 300 170 Z " style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(90%,93%,97%); fill-rule: evenodd;"/>
+			<text x="325.0" y="137.0" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,274) scale(1,-1)">AND</text>
+			<path d="M 220,90 L 270,90 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 270,90 L 270,125 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 270,125 L 300,125 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 12,160 L 260,160 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 260,160 L 260,140 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 260,140 L 300,140 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 12,210 L 285,210 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 285,210 L 285,155 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 285,155 L 300,155 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 366,140 L 395,140 Z" style="stroke: rgb(12%,23%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="400" y="136" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,23%,45%); stroke:none;" transform="translate(0,272) scale(1,-1)">AUTORIZAR</text>
+			<text x="140" y="10" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,20) scale(1,-1)">AUTORIZAR = S . D . (A + NOT C)          ALERTA = NOT S</text>
+		</g>
+	</g>
+</svg>
